@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "蝉 semi",
+  "base_artist": "長渕 剛",
+  "createdAt": "2025-12-25T03:10:30.243124Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "蝉",
+      "artist": "Kazuyoshi Saito",
+      "has_synced": true,
+      "path": "select/01_蝉_Kazuyoshi_Saito.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "蝉",
+      "artist": "長渕 剛",
+      "has_synced": false,
+      "path": "select/pl_01_蝉_長渕_剛.txt"
+    }
+  ]
+}
